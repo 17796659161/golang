@@ -1,5 +1,5 @@
 package sayhello
 
-func sayhello() int {
+func Sayhello() int {
 	return 3456
 }
